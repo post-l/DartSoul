@@ -1,6 +1,8 @@
 DartSoul
 ========
 
+Netsoul Client in Dart (Chrome packaged application)
+
 For more information about packaged apps, see
 http://developer.chrome.com/apps/about_apps.html.
 
